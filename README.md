@@ -10,7 +10,7 @@ Buat Crack Facebook Mamak Mu
 
 ## TAMPILAN/HASIL COBA SENDIRI
 
-[![IMG-20230601-153427.jpg](https://i.postimg.cc/g2hhVY1h/IMG-20230601-153427.jpg)](https://postimg.cc/9DWzVjmX)
+
 
 ## <b>installation</b>
 
