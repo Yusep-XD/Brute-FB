@@ -24,10 +24,10 @@ Buat Crack Facebook Mamak Mu
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf Brutefb`
-- `git clone https://github.com/Yusep-XD/Brutefb`
-- `cd Brutefb`
-- `python run.py`
+- `rm -rf Brute-FB`
+- `git clone https://github.com/Yusep-XD/Brute-FB`
+- `cd Brute-FB`
+- `python Brute-FB.py`
      
 
  ```This Tools is Free Enjoy ```</br>
